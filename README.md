@@ -1,17 +1,17 @@
-### Hi there 👋
-66
+### 👋Hi there, I'm Kirill, a fullstack developer.
+However, I prefer working with the frontend =)
 
-<!--
-**Rojven/rojven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Here's my working stack: 
 
-Here are some ideas to get you started:
+  - Fullstack SPA: React + Redux, Node.js, Express.js, MongoDB
+  - Simple projects: HTML, CSS, JavaScript/TypeScript, PHP(optional)
+  - Additional technologies I use in my work:
+    - CSS: SCSS, SASS, Tailwind CSS, PostCSS
+    - Module bundler and task runner: Webpack, Gulp
+    - Package managers: npm, yarn
+    - DB: Sanity.io
+    - Version Control System: Git
+    - Methodology: BEM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: Here's my website with all the links needed - https://www.epicyclum.com/
+
